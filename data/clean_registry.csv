@@ -1,0 +1,444 @@
+REGISTRY,country_long,country_region,star,country_name,is_national,is_national_exists,is_subset
+101200399,"                                                   *Algeria, Batna (2008-2012)","Algeria, Batna",True,Algeria,0,0,1
+140400299,"                                                   *Kenya, Nairobi (2008-2012)","Kenya, Nairobi",True,Kenya,0,0,1
+169000099,                                                        Seychelles (2009-2012),Seychelles,False,Seychelles,1,1,0
+171000199,"                                       *South Africa, Eastern Cape (2008-2012)","South Africa, Eastern Cape",True,South Africa,0,0,1
+180000299,"                                          *Uganda, Kyadondo County (2008-2012)","Uganda, Kyadondo County",True,Uganda,0,0,1
+171600270,"                                        *Zimbabwe, Harare: African (2010-2012)","Zimbabwe, Harare: African",True,Zimbabwe,0,0,1
+203201199,"                                                  Argentina, Chaco (2008-2012)","Argentina, Chaco",False,Argentina,0,0,1
+203200599,"                                    Argentina, Entre Rios Province (2008-2011)","Argentina, Entre Rios Province",False,Argentina,0,0,1
+203200699,"                                                Argentina, Córdoba (2008-2012)","Argentina, Córdoba",False,Argentina,0,0,1
+203200799,"                                                Argentina, Mendoza (2008-2012)","Argentina, Mendoza",False,Argentina,0,0,1
+203200899,"                                       Argentina, Tierra del Fuego (2008-2012)","Argentina, Tierra del Fuego",False,Argentina,0,0,1
+207601199,"                                                   Brazil, Aracaju (2008-2012)","Brazil, Aracaju",False,Brazil,0,0,1
+207601299,"                                                  Brazil, Curitiba (2008-2011)","Brazil, Curitiba",False,Brazil,0,0,1
+207600599,"                                             Brazil, Florianopolis (2008-2010)","Brazil, Florianopolis",False,Brazil,0,0,1
+207600299,"                                                  *Brazil, Goiânia (2008-2012)","Brazil, Goiânia",True,Brazil,0,0,1
+207601799,"                                                       Brazil, Jau (2008-2012)","Brazil, Jau",False,Brazil,0,0,1
+207602099,"                                           Brazil, Pocos de Caldas (2008-2011)","Brazil, Pocos de Caldas",False,Brazil,0,0,1
+215200399,"                                     *Chile, Region of Antofagasta (2008-2010)","Chile, Region of Antofagasta",True,Chile,0,0,1
+215200299,"                                           Chile, Bío Bío Province (2008-2012)","Chile, Bío Bío Province",False,Chile,0,0,1
+215200599,"                                                 Chile, Concepcion (2008-2010)","Chile, Concepcion",False,Chile,0,0,1
+215200199,"                                                  *Chile, Valdivia (2008-2012)","Chile, Valdivia",True,Chile,0,0,1
+217000199,"                                                    Colombia, Cali (2008-2012)","Colombia, Cali",False,Colombia,0,0,1
+217000299,"                                             Colombia, Bucaramanga (2008-2012)","Colombia, Bucaramanga",False,Colombia,0,0,1
+217000399,"                                              *Colombia, Manizales (2008-2012)","Colombia, Manizales",True,Colombia,0,0,1
+217000499,"                                                   Colombia, Pasto (2008-2012)","Colombia, Pasto",False,Colombia,0,0,1
+218800099,                                                        Costa Rica (2008-2011),Costa Rica,False,Costa Rica,1,1,0
+221800299,"                                                   Ecuador, Cuenca (2008-2012)","Ecuador, Cuenca",False,Ecuador,0,0,1
+221800399,"                                                Ecuador, Guayaquil (2008-2012)","Ecuador, Guayaquil",False,Ecuador,0,0,1
+221800499,"                                                    *Ecuador, Loja (2008-2010)","Ecuador, Loja",True,Ecuador,0,0,1
+221800599,"                                                  *Ecuador, Manabi (2008-2012)","Ecuador, Manabi",True,Ecuador,0,0,1
+221800199,"                                                    Ecuador, Quito (2008-2012)","Ecuador, Quito",False,Ecuador,0,0,1
+225009199,"                                               *France, Martinique (2008-2012)","France, Martinique",True,France,0,0,1
+525000199,"                                                 *France, Bas-Rhin (2008-2011)","France, Bas-Rhin",True,France,0,0,1
+525000299,"                                                 *France, Calvados (2008-2012) ","France, Calvados",True,France,0,0,1
+525000399,"                                                    *France, Doubs (2008-2012) ","France, Doubs",True,France,0,0,1
+525001099,"                                                  *France, Gironde (2008-2012) ","France, Gironde",True,France,0,0,1
+525000499,"                                                *France, Haut-Rhin (2008-2012)","France, Haut-Rhin",True,France,0,0,1
+525000899,"                                                  *France, Hérault (2008-2012)","France, Hérault",True,France,0,0,1
+525000599,"                                                    *France, Isère (2008-2012)","France, Isère",True,France,0,0,1
+525001899,"                                          *France, Lille-Métropole (2008-2012)","France, Lille-Métropole",True,France,0,0,1
+525000999,"                                                 *France, Limousin (2009-2012)","France, Limousin",True,France,0,0,1
+525001499,"                                         *France, Loire-Atlantique (2008-2012)","France, Loire-Atlantique",True,France,0,0,1
+525001699,"                                                   *France, Manche (2008-2011)","France, Manche",True,France,0,0,1
+525000699,"                                                    *France, Somme (2008-2012)","France, Somme",True,France,0,0,1
+525000799,"                                                     *France, Tarn (2008-2012)","France, Tarn",True,France,0,0,1
+525001199,"                                    *France, Territoire de Belfort (2008-2012)","France, Territoire de Belfort",True,France,0,0,1
+525001799,"                                                   *France, Vendée (2008-2012)","France, Vendée",True,France,0,0,1
+225009499,                                                    *French Guiana (2008-2012),French Guiana,True,French Guiana,1,1,0
+238800199,"                                  *Jamaica, Kingston and St Andrew (2008-2011)","Jamaica, Kingston and St Andrew",True,Jamaica,0,0,1
+260400299,"                                                       *Peru, Lima (2010-2012)","Peru, Lima",True,Peru,0,0,1
+263000099,"                                                  USA, Puerto Rico (2008-2012)","USA, Puerto Rico",False,United States,0,0,1
+384000010,                                                        USA: White (2008-2012),USA: White,False,United States,0,0,1
+384000030,                                                        USA: Black (2008-2012),USA: Black,False,United States,0,0,1
+384008099,"                                                         USA, NPCR (2008-2012)","USA, NPCR",False,United States,0,0,1
+384008010,"                                                  USA, NPCR: White (2008-2012)","USA, NPCR: White",False,United States,0,0,1
+384008030,"                                                  USA, NPCR: Black (2008-2012)","USA, NPCR: Black",False,United States,0,0,1
+384008029,"                             USA, NPCR: Asian and Pacific Islander (2008-2012)","USA, NPCR: Asian and Pacific Islander",False,United States,0,0,1
+384008042,"                         USA, NPCR: American Indian/Alaska Natives (2008-2012)","USA, NPCR: American Indian/Alaska Natives",False,United States,0,0,1
+384002499,"                                         USA, SEER (18 registries) (2008-2012)","USA, SEER",False,United States,0,0,1
+384002410,"                                 *USA, SEER (18 registries): White (2008-2012)","USA, SEER",True,United States,0,0,1
+384002460,"                    *USA, SEER (18 registries): Non-Hispanic White (2008-2012)","USA, SEER",True,United States,0,0,1
+384002450,"                        *USA, SEER (18 registries): Hispanic White (2008-2012)","USA, SEER",True,United States,0,0,1
+384002430,"                                 *USA, SEER (18 registries): Black (2008-2012)","USA, SEER",True,United States,0,0,1
+384002429,"            *USA, SEER (18 registries): Asian and Pacific Islander (2008-2012)","USA, SEER",True,United States,0,0,1
+384002099,"                                          USA, SEER (9 registries) (2008-2012)","USA, SEER",False,United States,0,0,1
+384002010,"                                  *USA, SEER (9 registries): White (2008-2012)","USA, SEER",True,United States,0,0,1
+384002030,"                                  *USA, SEER (9 registries): Black (2008-2012)","USA, SEER",True,United States,0,0,1
+384005199,"                                                      USA, Alabama (2008-2012)","USA, Alabama",False,United States,0,0,1
+384005110,"                                               USA, Alabama: White (2008-2012)","USA, Alabama: White",False,United States,0,0,1
+384005130,"                                               USA, Alabama: Black (2008-2012)","USA, Alabama: Black",False,United States,0,0,1
+384005099,"                                                       USA, Alaska (2008-2012)","USA, Alaska",False,United States,0,0,1
+384005042,"                                       USA, Alaska: Alaska Natives (2008-2012)","USA, Alaska: Alaska Natives",False,United States,0,0,1
+384005299,"                                                      USA, Arizona (2008-2012)","USA, Arizona",False,United States,0,0,1
+384005210,"                                               USA, Arizona: White (2008-2012)","USA, Arizona: White",False,United States,0,0,1
+384005230,"                                               USA, Arizona: Black (2008-2012)","USA, Arizona: Black",False,United States,0,0,1
+384005242,"                                     USA, Arizona: American Indian (2008-2012)","USA, Arizona: American Indian",False,United States,0,0,1
+384004099,"                                                     USA, Arkansas (2008-2012)","USA, Arkansas",False,United States,0,0,1
+384004010,"                                              USA, Arkansas: White (2008-2012)","USA, Arkansas: White",False,United States,0,0,1
+384004030,"                                              USA, Arkansas: Black (2008-2012)","USA, Arkansas: Black",False,United States,0,0,1
+384002599,"                                                   USA, California (2008-2012)","USA, California",False,United States,0,0,1
+384002510,"                                            USA, California: White (2008-2012)","USA, California: White",False,United States,0,0,1
+384002530,"                                            USA, California: Black (2008-2012)","USA, California: Black",False,United States,0,0,1
+384002542,"                                  USA, California: American Indian (2008-2012)","USA, California: American Indian",False,United States,0,0,1
+384000399,"                               USA, California, Los Angeles County (2008-2012)","USA, California, Los Angeles County",False,United States,0,0,1
+384000310,"                       *USA, California, Los Angeles County: White (2008-2012)","USA, California, Los Angeles County: White",True,United States,0,0,1
+384000360,"          *USA, California, Los Angeles County: Non-Hispanic White (2008-2012)","USA, California, Los Angeles County: Non-Hispanic White",True,United States,0,0,1
+384000350,"              *USA, California, Los Angeles County: Hispanic White (2008-2012)","USA, California, Los Angeles County: Hispanic White",True,United States,0,0,1
+384000330,"                       *USA, California, Los Angeles County: Black (2008-2012)","USA, California, Los Angeles County: Black",True,United States,0,0,1
+384000320,"                     *USA, California, Los Angeles County: Chinese (2008-2012)","USA, California, Los Angeles County: Chinese",True,United States,0,0,1
+384000323,"                    *USA, California, Los Angeles County: Filipino (2008-2012)","USA, California, Los Angeles County: Filipino",True,United States,0,0,1
+384000322,"                      *USA, California, Los Angeles County: Korean (2008-2012)","USA, California, Los Angeles County: Korean",True,United States,0,0,1
+384000299,"                           USA, California, San Francisco Bay Area (2008-2012)","USA, California, San Francisco Bay Area",False,United States,0,0,1
+384000210,"                   *USA, California, San Francisco Bay Area: White (2008-2012)","USA, California, San Francisco Bay Area: White",True,United States,0,0,1
+384000260,"      *USA, California, San Francisco Bay Area: Non-Hispanic White (2008-2012)","USA, California, San Francisco Bay Area: Non-Hispanic White",True,United States,0,0,1
+384000250,"          *USA, California, San Francisco Bay Area: Hispanic White (2008-2012)","USA, California, San Francisco Bay Area: Hispanic White",True,United States,0,0,1
+384000230,"                   *USA, California, San Francisco Bay Area: Black (2008-2012)","USA, California, San Francisco Bay Area: Black",True,United States,0,0,1
+384000220,"                 *USA, California, San Francisco Bay Area: Chinese (2008-2012)","USA, California, San Francisco Bay Area: Chinese",True,United States,0,0,1
+384000223,"                *USA, California, San Francisco Bay Area: Filipino (2008-2012)","USA, California, San Francisco Bay Area: Filipino",True,United States,0,0,1
+384000221,"                *USA, California, San Francisco Bay Area: Japanese (2008-2012)","USA, California, San Francisco Bay Area: Japanese",True,United States,0,0,1
+384005399,"                                                     USA, Colorado (2008-2012)","USA, Colorado",False,United States,0,0,1
+384005310,"                                              USA, Colorado: White (2008-2012)","USA, Colorado: White",False,United States,0,0,1
+384005330,"                                              USA, Colorado: Black (2008-2012)","USA, Colorado: Black",False,United States,0,0,1
+384000499,"                                                  USA, Connecticut (2008-2012)","USA, Connecticut",False,United States,0,0,1
+384000410,"                                          *USA, Connecticut: White (2008-2012)","USA, Connecticut: White",True,United States,0,0,1
+384000430,"                                          *USA, Connecticut: Black (2008-2012)","USA, Connecticut: Black",True,United States,0,0,1
+384004199,"                                                     USA, Delaware (2008-2012)","USA, Delaware",False,United States,0,0,1
+384004110,"                                              USA, Delaware: White (2008-2012)","USA, Delaware: White",False,United States,0,0,1
+384004130,"                                              USA, Delaware: Black (2008-2012)","USA, Delaware: Black",False,United States,0,0,1
+384005599,"                                                      USA, Florida (2008-2012)","USA, Florida",False,United States,0,0,1
+384005510,"                                               USA, Florida: White (2008-2012)","USA, Florida: White",False,United States,0,0,1
+384005530,"                                               USA, Florida: Black (2008-2012)","USA, Florida: Black",False,United States,0,0,1
+384005699,"                                                      USA, Georgia (2008-2012)","USA, Georgia",False,United States,0,0,1
+384005610,"                                               USA, Georgia: White (2008-2012)","USA, Georgia: White",False,United States,0,0,1
+384005630,"                                               USA, Georgia: Black (2008-2012)","USA, Georgia: Black",False,United States,0,0,1
+384000599,"                                             USA, Georgia, Atlanta (2008-2012)","USA, Georgia, Atlanta",False,United States,0,0,1
+384000510,"                                     *USA, Georgia, Atlanta: White (2008-2012)","USA, Georgia, Atlanta: White",True,United States,0,0,1
+384000530,"                                     *USA, Georgia, Atlanta: Black (2008-2012)","USA, Georgia, Atlanta: Black",True,United States,0,0,1
+384005799,"                                                        USA, Idaho (2008-2012)","USA, Idaho",False,United States,0,0,1
+384005899,"                                                     USA, Illinois (2008-2012)","USA, Illinois",False,United States,0,0,1
+384005810,"                                              USA, Illinois: White (2008-2012)","USA, Illinois: White",False,United States,0,0,1
+384005830,"                                              USA, Illinois: Black (2008-2012)","USA, Illinois: Black",False,United States,0,0,1
+384005999,"                                                      USA, Indiana (2008-2012)","USA, Indiana",False,United States,0,0,1
+384005910,"                                               USA, Indiana: White (2008-2012)","USA, Indiana: White",False,United States,0,0,1
+384005930,"                                               USA, Indiana: Black (2008-2012)","USA, Indiana: Black",False,United States,0,0,1
+384000699,"                                                         USA, Iowa (2008-2012)","USA, Iowa",False,United States,0,0,1
+384001999,"                                                     USA, Kentucky (2008-2012)","USA, Kentucky",False,United States,0,0,1
+384002299,"                                                    USA, Louisiana (2008-2012)","USA, Louisiana",False,United States,0,0,1
+384002210,"                                             USA, Louisiana: White (2008-2012)","USA, Louisiana: White",False,United States,0,0,1
+384002230,"                                             USA, Louisiana: Black (2008-2012)","USA, Louisiana: Black",False,United States,0,0,1
+384000799,"                                       USA, Louisiana, New Orleans (2008-2012)","USA, Louisiana, New Orleans",False,United States,0,0,1
+384000710,"                               *USA, Louisiana, New Orleans: White (2008-2012)","USA, Louisiana, New Orleans: White",True,United States,0,0,1
+384000730,"                               *USA, Louisiana, New Orleans: Black (2008-2012)","USA, Louisiana, New Orleans: Black",True,United States,0,0,1
+384006199,"                                                        USA, Maine (2008-2012)","USA, Maine",False,United States,0,0,1
+384004299,"                                                     USA, Maryland (2008-2012)","USA, Maryland",False,United States,0,0,1
+384004210,"                                              USA, Maryland: White (2008-2012)","USA, Maryland: White",False,United States,0,0,1
+384004230,"                                              USA, Maryland: Black (2008-2012)","USA, Maryland: Black",False,United States,0,0,1
+384006099,"                                                USA, Massachusetts (2008-2012)","USA, Massachusetts",False,United States,0,0,1
+384006010,"                                         USA, Massachusetts: White (2008-2012)","USA, Massachusetts: White",False,United States,0,0,1
+384006030,"                                         USA, Massachusetts: Black (2008-2012)","USA, Massachusetts: Black",False,United States,0,0,1
+384006299,"                                                     USA, Michigan (2008-2012)","USA, Michigan",False,United States,0,0,1
+384006210,"                                              USA, Michigan: White (2008-2012)","USA, Michigan: White",False,United States,0,0,1
+384006230,"                                              USA, Michigan: Black (2008-2012)","USA, Michigan: Black",False,United States,0,0,1
+384000899,"                                            USA, Michigan, Detroit (2008-2012)","USA, Michigan, Detroit",False,United States,0,0,1
+384000810,"                                    *USA, Michigan, Detroit: White (2008-2012)","USA, Michigan, Detroit: White",True,United States,0,0,1
+384000830,"                                    *USA, Michigan, Detroit: Black (2008-2012)","USA, Michigan, Detroit: Black",True,United States,0,0,1
+384004399,"                                                    USA, Minnesota (2008-2012)","USA, Minnesota",False,United States,0,0,1
+384004499,"                                                  USA, Mississippi (2008-2012)","USA, Mississippi",False,United States,0,0,1
+384006399,"                                                     USA, Missouri (2008-2012)","USA, Missouri",False,United States,0,0,1
+384006310,"                                              USA, Missouri: White (2008-2012)","USA, Missouri: White",False,United States,0,0,1
+384006330,"                                              USA, Missouri: Black (2008-2012)","USA, Missouri: Black",False,United States,0,0,1
+384006499,"                                                      USA, Montana (2008-2012)","USA, Montana",False,United States,0,0,1
+384004799,"                                                     USA, Nebraska (2008-2012)","USA, Nebraska",False,United States,0,0,1
+384004710,"                                              USA, Nebraska: White (2008-2012)","USA, Nebraska: White",False,United States,0,0,1
+384004730,"                                              USA, Nebraska: Black (2008-2012)","USA, Nebraska: Black",False,United States,0,0,1
+384004999,"                                                       USA, Nevada (2008-2012)","USA, Nevada",False,United States,0,0,1
+384004910,"                                                USA, Nevada: White (2008-2012)","USA, Nevada: White",False,United States,0,0,1
+384004930,"                                                USA, Nevada: Black (2008-2012)","USA, Nevada: Black",False,United States,0,0,1
+384004899,"                                                USA, New Hampshire (2008-2012)","USA, New Hampshire",False,United States,0,0,1
+384001599,"                                                   USA, New Jersey (2008-2012)","USA, New Jersey",False,United States,0,0,1
+384001510,"                                            USA, New Jersey: White (2008-2012)","USA, New Jersey: White",False,United States,0,0,1
+384001530,"                                            USA, New Jersey: Black (2008-2012)","USA, New Jersey: Black",False,United States,0,0,1
+384000999,"                                                   USA, New Mexico (2008-2012)","USA, New Mexico",False,United States,0,0,1
+384000910,"                                           *USA, New Mexico: White (2008-2012)","USA, New Mexico: White",True,United States,0,0,1
+384000950,"                                  *USA, New Mexico: Hispanic White (2008-2012)","USA, New Mexico: Hispanic White",True,United States,0,0,1
+384000960,"                              *USA, New Mexico: Non-Hispanic White (2008-2012)","USA, New Mexico: Non-Hispanic White",True,United States,0,0,1
+384001699,"                                               USA, New York State (2008-2012)","USA, New York State",False,United States,0,0,1
+384001610,"                                        USA, New York State: White (2008-2012)","USA, New York State: White",False,United States,0,0,1
+384001630,"                                        USA, New York State: Black (2008-2012)","USA, New York State: Black",False,United States,0,0,1
+384004599,"                                               USA, North Carolina (2008-2012)","USA, North Carolina",False,United States,0,0,1
+384004510,"                                        USA, North Carolina: White (2008-2012)","USA, North Carolina: White",False,United States,0,0,1
+384004530,"                                        USA, North Carolina: Black (2008-2012)","USA, North Carolina: Black",False,United States,0,0,1
+384004699,"                                                 USA, North Dakota (2008-2012)","USA, North Dakota",False,United States,0,0,1
+384006599,"                                                         USA, Ohio (2008-2012)","USA, Ohio",False,United States,0,0,1
+384006510,"                                                  USA, Ohio: White (2008-2012)","USA, Ohio: White",False,United States,0,0,1
+384006530,"                                                  USA, Ohio: Black (2008-2012)","USA, Ohio: Black",False,United States,0,0,1
+384006699,"                                                     USA, Oklahoma (2008-2012)","USA, Oklahoma",False,United States,0,0,1
+384006610,"                                              USA, Oklahoma: White (2008-2012)","USA, Oklahoma: White",False,United States,0,0,1
+384006630,"                                              USA, Oklahoma: Black (2008-2012)","USA, Oklahoma: Black",False,United States,0,0,1
+384006799,"                                                       USA, Oregon (2008-2012)","USA, Oregon",False,United States,0,0,1
+384006710,"                                                USA, Oregon: White (2008-2012)","USA, Oregon: White",False,United States,0,0,1
+384006730,"                                                USA, Oregon: Black (2008-2012)","USA, Oregon: Black",False,United States,0,0,1
+384006899,"                                                 USA, Pennsylvania (2008-2012)","USA, Pennsylvania",False,United States,0,0,1
+384006810,"                                          USA, Pennsylvania: White (2008-2012)","USA, Pennsylvania: White",False,United States,0,0,1
+384006830,"                                          USA, Pennsylvania: Black (2008-2012)","USA, Pennsylvania: Black",False,United States,0,0,1
+384006999,"                                                 USA, Rhode Island (2008-2012)","USA, Rhode Island",False,United States,0,0,1
+384006910,"                                          USA, Rhode Island: White (2008-2012)","USA, Rhode Island: White",False,United States,0,0,1
+384006930,"                                          USA, Rhode Island: Black (2008-2012)","USA, Rhode Island: Black",False,United States,0,0,1
+384007099,"                                               USA, South Carolina (2008-2012)","USA, South Carolina",False,United States,0,0,1
+384007010,"                                        USA, South Carolina: White (2008-2012)","USA, South Carolina: White",False,United States,0,0,1
+384007030,"                                        USA, South Carolina: Black (2008-2012)","USA, South Carolina: Black",False,United States,0,0,1
+384007899,"                                                 USA, South Dakota (2008-2012)","USA, South Dakota",False,United States,0,0,1
+384007999,"                                                    USA, Tennessee (2008-2012)","USA, Tennessee",False,United States,0,0,1
+384007910,"                                             USA, Tennessee: White (2008-2012)","USA, Tennessee: White",False,United States,0,0,1
+384007930,"                                             USA, Tennessee: Black (2008-2012)","USA, Tennessee: Black",False,United States,0,0,1
+384007199,"                                                        USA, Texas (2008-2012)","USA, Texas",False,United States,0,0,1
+384007110,"                                                 USA, Texas: White (2008-2012)","USA, Texas: White",False,United States,0,0,1
+384007130,"                                                 USA, Texas: Black (2008-2012)","USA, Texas: Black",False,United States,0,0,1
+384001299,"                                                         USA, Utah (2008-2012)","USA, Utah",False,United States,0,0,1
+384007299,"                                                      USA, Vermont (2008-2012)","USA, Vermont",False,United States,0,0,1
+384007799,"                                                     USA, Virginia (2008-2012)","USA, Virginia",False,United States,0,0,1
+384007710,"                                              USA, Virginia: White (2008-2012)","USA, Virginia: White",False,United States,0,0,1
+384007730,"                                              USA, Virginia: Black (2008-2012)","USA, Virginia: Black",False,United States,0,0,1
+384007399,"                                             USA, Washington State (2008-2012)","USA, Washington State",False,United States,0,0,1
+384001399,"                                          USA, Washington, Seattle (2008-2012)","USA, Washington, Seattle",False,United States,0,0,1
+384007499,"                                                USA, West Virginia (2008-2012)","USA, West Virginia",False,United States,0,0,1
+384007599,"                                                    USA, Wisconsin (2008-2012)","USA, Wisconsin",False,United States,0,0,1
+384007510,"                                             USA, Wisconsin: White (2008-2012)","USA, Wisconsin: White",False,United States,0,0,1
+384007530,"                                             USA, Wisconsin: Black (2008-2012)","USA, Wisconsin: Black",False,United States,0,0,1
+384007699,"                                                      USA, Wyoming (2008-2012)","USA, Wyoming",False,United States,0,0,1
+684009999,"                                                       USA, Hawaii (2008-2012)","USA, Hawaii",False,United States,0,0,1
+684009910,"                                               *USA, Hawaii: White (2008-2012)","USA, Hawaii: White",True,United States,0,0,1
+684009921,"                                            *USA, Hawaii: Japanese (2008-2012)","USA, Hawaii: Japanese",True,United States,0,0,1
+684009920,"                                             *USA, Hawaii: Chinese (2008-2012)","USA, Hawaii: Chinese",True,United States,0,0,1
+684009945,"                                            *USA, Hawaii: Hawaiian (2008-2012)","USA, Hawaii: Hawaiian",True,United States,0,0,1
+684009923,"                                            *USA, Hawaii: Filipino (2008-2012)","USA, Hawaii: Filipino",True,United States,0,0,1
+684009899,"                                             *USA, Pacific Islands (2008-2012)","USA, Pacific Islands",True,United States,0,0,1
+285800099,                                                           Uruguay (2008-2012),Uruguay,False,Uruguay,1,1,0
+312400199,"                                                  *Canada, Alberta (2008-2012)","Canada, Alberta",True,Canada,0,0,1
+312400299,"                                          Canada, British Columbia (2008-2012)","Canada, British Columbia",False,Canada,0,0,1
+312400399,"                                                  Canada, Manitoba (2008-2012)","Canada, Manitoba",False,Canada,0,0,1
+312400599,"                                            *Canada, New Brunswick (2008-2012)","Canada, New Brunswick",True,Canada,0,0,1
+312400899,"                                *Canada, Newfoundland and Labrador (2008-2012)   ","Canada, Newfoundland and Labrador",True,Canada,0,0,1
+312400499,"                                    *Canada, Northwest Territories (2008-2012)","Canada, Northwest Territories",True,Canada,0,0,1
+312400699,"                                              *Canada, Nova Scotia (2008-2012)","Canada, Nova Scotia",True,Canada,0,0,1
+312401399,"                                                  *Canada, Nunavut (2008-2012)","Canada, Nunavut",True,Canada,0,0,1
+312401099,"                                                  *Canada, Ontario (2008-2012)","Canada, Ontario",True,Canada,0,0,1
+312400799,"                                     *Canada, Prince Edward Island (2008-2012)","Canada, Prince Edward Island",True,Canada,0,0,1
+312401299,"                                              Canada, Saskatchewan (2008-2012)","Canada, Saskatchewan",False,Canada,0,0,1
+312400999,"                                                    *Canada, Yukon (2008-2012)","Canada, Yukon",True,Canada,0,0,1
+384000099,                                                               USA (2008-2012),United States,False,United States,1,1,0
+404800046,                                                 Bahrain: Bahraini (2008-2012),Bahrain: Bahraini,False,Bahrain,0,0,1
+409600099,                                                 Brunei Darussalam (2010-2012),Brunei Darussalam,False,Brunei Darussalam,1,1,0
+415601299,"                                                China, Anshan City (2008-2012)","China, Anshan City",False,China,0,0,1
+415600199,"                                                    China, Beijing (2008-2012)","China, Beijing",False,China,0,0,1
+415603199,"                                                      China, Benxi (2008-2011)","China, Benxi",False,China,0,0,1
+415600699,"                                              China, Cixian County (2008-2012)","China, Cixian County",False,China,0,0,1
+415602499,"                                                  China, Guangzhou (2010-2012)","China, Guangzhou",False,China,0,0,1
+415605199,"                                                    China, Guanyun (2008-2012)","China, Guanyun",False,China,0,0,1
+415602599,"                                              China, Haimen County (2008-2012)","China, Haimen County",False,China,0,0,1
+415602199,"                                              China, Hangzhou City (2008-2012)","China, Hangzhou City",False,China,0,0,1
+415601599,"                              China, Harbin City, Nangang District (2008-2012)","China, Harbin City, Nangang District",False,China,0,0,1
+415605399,"                                                      China, Hefei (2010-2012)","China, Hefei",False,China,0,0,1
+415605499,"                                                   China, Hengdong (2009-2012)","China, Hengdong",False,China,0,0,1
+415603099,"                                                  China, Hong Kong (2008-2012)","China, Hong Kong",False,China,0,0,1
+415605799,"                                 *China, Huaiyin District, Huai'an (2009-2012)","China, Huaiyin District, Huai'an",True,China,0,0,1
+415606099,"                                                   China, Jiangmen (2010-2012)","China, Jiangmen",False,China,0,0,1
+415603299,"                                              China, Jianhu County (2010-2012)","China, Jianhu County",False,China,0,0,1
+415600799,"                                             China, Jiashan County (2008-2012)","China, Jiashan County",False,China,0,0,1
+415602399,"                                               China, Jiaxing City (2008-2012)","China, Jiaxing City",False,China,0,0,1
+415606899,"                                                China, Lianyungang (2008-2012)","China, Lianyungang",False,China,0,0,1
+415600899,"                                             China, Linzhou County (2008-2012)","China, Linzhou County",False,China,0,0,1
+415607199,"                                                    China, Liuzhou (2009-2012)","China, Liuzhou",False,China,0,0,1
+415607599,"                                                   China, Maanshan (2008-2012)","China, Maanshan",False,China,0,0,1
+415600299,"                                              China, Qidong County (2008-2012)","China, Qidong County",False,China,0,0,1
+415600399,"                                              China, Shanghai City (2008-2012)","China, Shanghai City",False,China,0,0,1
+415608399,"                                                   China, Shenyang (2008-2012)","China, Shenyang",False,China,0,0,1
+415601699,"                                            *China, Shexian County (2008-2012)","China, Shexian County",True,China,0,0,1
+415608499,"                                                    China, Sheyang (2008-2012)","China, Sheyang",False,China,0,0,1
+415608899,"                                              China, Tongling City (2008-2012)","China, Tongling City",False,China,0,0,1
+415600999,"                                                 China, Wuhan City (2008-2012)","China, Wuhan City",False,China,0,0,1
+415609299,"                                                       China, Wuxi (2010-2012)","China, Wuxi",False,China,0,0,1
+415609399,"                                                     China, Xianju (2010-2012)","China, Xianju",False,China,0,0,1
+415609699,"                                                     China, Xiping (2010-2012)","China, Xiping",False,China,0,0,1
+415609999,"                                                     China, Yanshi (2010-2012)","China, Yanshi",False,China,0,0,1
+415601899,"                                             China, Yanting County (2008-2012)","China, Yanting County",False,China,0,0,1
+415610299,"                                                 China, Yueyanglou (2009-2012)","China, Yueyanglou",False,China,0,0,1
+415601499,"                                             China, Zhongshan City (2010-2012)","China, Zhongshan City",False,China,0,0,1
+415610599,"                                                     China, Zhuhai (2010-2012)","China, Zhuhai",False,China,0,0,1
+435600199,"                                                 *India, Ahmedabad (2008-2011)","India, Ahmedabad",True,India,0,0,1
+435600299,"                                                 *India, Bangalore (2008-2012)","India, Bangalore",True,India,0,0,1
+435600799,"                                 *India; Barshi, Paranda, and Bhum (2008-2012)","India; Barshi, Paranda, and Bhum",True,India,0,0,1
+435601499,"                                                    *India, Bhopal (2008-2012)","India, Bhopal",True,India,0,0,1
+435602599,"                                                    *India, Cachar (2008-2012)","India, Cachar",True,India,0,0,1
+435600499,"                                                   *India, Chennai (2008-2012)","India, Chennai",True,India,0,0,1
+435601199,"                                      *India, Dindigul, Ambilikkai (2008-2012)","India, Dindigul, Ambilikkai",True,India,0,0,1
+435601599,"                                     *India, Kamrup Urban District (2009-2012)","India, Kamrup Urban District",True,India,0,0,1
+435602199,"                                                    *India, Kollam (2008-2012)","India, Kollam",True,India,0,0,1
+435601999,"                                                   *India, Mizoram (2008-2012)","India, Mizoram",True,India,0,0,1
+435600399,"                                                    *India, Mumbai (2008-2012)","India, Mumbai",True,India,0,0,1
+435600699,"                                                     *India, Poona (2008-2011)","India, Poona",True,India,0,0,1
+435601899,"                                              *India, Sikkim State (2008-2012)","India, Sikkim State",True,India,0,0,1
+435602299,"                                                   *India, Tripura (2010-2012)","India, Tripura",True,India,0,0,1
+435600899,"                                                *India, Trivandrum (2008-2012)","India, Trivandrum",True,India,0,0,1
+435602099,"                                                    *India, Wardha (2010-2012)","India, Wardha",True,India,0,0,1
+436400399,"                     Iran (Islamic Republic of), Golestan Province (2008-2011)",Iran,False,Iran,1,1,0
+437600099,                                                            Israel (2008-2012),Israel,False,Israel,1,1,0
+439201099,"                                           Japan, Aichi Prefecture (2008-2012)","Japan, Aichi Prefecture",False,Japan,0,0,1
+439200999,"                                           Japan, Fukui Prefecture (2008-2012)","Japan, Fukui Prefecture",False,Japan,0,0,1
+439200199,"                                       Japan, Hiroshima Prefecture (2008-2012)","Japan, Hiroshima Prefecture",False,Japan,0,0,1
+439200299,"                                          Japan, Miyagi Prefecture (2008-2010)","Japan, Miyagi Prefecture",False,Japan,0,0,1
+439200399,"                                        Japan, Nagasaki Prefecture (2008-2012)","Japan, Nagasaki Prefecture",False,Japan,0,0,1
+439200899,"                                         Japan, Niigata Prefecture (2008-2012)","Japan, Niigata Prefecture",False,Japan,0,0,1
+439200499,"                                           Japan, Osaka Prefecture (2008-2012)","Japan, Osaka Prefecture",False,Japan,0,0,1
+439201199,"                                         Japan, Tochigi Prefecture (2008-2012)","Japan, Tochigi Prefecture",False,Japan,0,0,1
+439200699,"                                        Japan, Yamagata Prefecture (2008-2012)","Japan, Yamagata Prefecture",False,Japan,0,0,1
+440000099,                                               *Jordan: Jordanians (2008-2012),Jordan: Jordanians,True,Jordan,0,0,1
+441000099,                                                 Republic of Korea (2008-2012),Sounth Korea,False,Sounth Korea,1,1,0
+441000299,"                                          Republic of Korea, Busan (2008-2012)","Republic of Korea, Busan",False,Sounth Korea,0,0,1
+441000499,"                                          Republic of Korea, Daegu (2008-2012)","Republic of Korea, Daegu",False,Sounth Korea,0,0,1
+441000599,"                                        Republic of Korea, Daejeon (2008-2012)","Republic of Korea, Daejeon",False,Sounth Korea,0,0,1
+441001099,"                                        Republic of Korea, Gwangju (2008-2012)","Republic of Korea, Gwangju",False,Sounth Korea,0,0,1
+441001199,"                                        Republic of Korea, Incheon (2008-2012)","Republic of Korea, Incheon",False,Sounth Korea,0,0,1
+441000999,"                                         Republic of Korea, Jejudo (2008-2012)","Republic of Korea, Jejudo",False,Sounth Korea,0,0,1
+441000399,"                                          Republic of Korea, Seoul (2008-2012)","Republic of Korea, Seoul",False,Sounth Korea,0,0,1
+441000899,"                                          Republic of Korea, Ulsan (2008-2012)","Republic of Korea, Ulsan",False,Sounth Korea,0,0,1
+441400099,                                                            Kuwait (2008-2012),Kuwait,False,Kuwait,1,1,0
+445800299,"                                                 *Malaysia, Penang (2008-2010)","Malaysia, Penang",True,Malaysia,0,0,1
+445800220,"                                        *Malaysia, Penang: Chinese (2008-2010)","Malaysia, Penang: Chinese",True,Malaysia,0,0,1
+445800227,"                                          *Malaysia, Penang: Malay (2008-2010)","Malaysia, Penang: Malay",True,Malaysia,0,0,1
+445800240,"                                         *Malaysia, Penang: Indian (2008-2010)","Malaysia, Penang: Indian",True,Malaysia,0,0,1
+460800299,"                                              *Philippines, Manila (2008-2012)","Philippines, Manila",True,Philippines,0,0,1
+460800399,"                                               *Philippines, Rizal (2008-2012)","Philippines, Rizal",True,Philippines,0,0,1
+463400068,                                                     Qatar: Qatari (2008-2012),Qatar: Qatari,False,Qatar,0,0,1
+468200158,"                                      *Saudi Arabia, Riyadh: Saudi (2008-2012)","Saudi Arabia, Riyadh: Saudi",True,Saudi Arabia,0,0,1
+476400399,"                                                 Thailand, Bangkok (2008-2010)","Thailand, Bangkok",False,Thailand,0,0,1
+476400199,"                                              Thailand, Chiang Mai (2008-2012)","Thailand, Chiang Mai",False,Thailand,0,0,1
+476400899,"                                                Thailand, Chonburi (2008-2011)","Thailand, Chonburi",False,Thailand,0,0,1
+476400299,"                                               Thailand, Khon Kaen (2008-2012)","Thailand, Khon Kaen",False,Thailand,0,0,1
+476400599,"                                                 Thailand, Lampang (2008-2012)","Thailand, Lampang",False,Thailand,0,0,1
+476400799,"                                       *Thailand, Lopburi Province (2009-2012)","Thailand, Lopburi Province",True,Thailand,0,0,1
+476400499,"                                                Thailand, Songkhla (2008-2012)","Thailand, Songkhla",False,Thailand,0,0,1
+479200299,"                                                   Turkey, Antalya (2008-2012)","Turkey, Antalya",False,Turkey,0,0,1
+479200499,"                                                     Turkey, Bursa (2008-2012)","Turkey, Bursa",False,Turkey,0,0,1
+479200799,"                                                    Turkey, Edirne (2008-2012)","Turkey, Edirne",False,Turkey,0,0,1
+479200599,"                                                   Turkey, Erzurum (2010-2012)","Turkey, Erzurum",False,Turkey,0,0,1
+479200699,"                                                 Turkey, Eskisehir (2008-2012)","Turkey, Eskisehir",False,Turkey,0,0,1
+479200199,"                                                     Turkey, Izmir (2008-2012)","Turkey, Izmir",False,Turkey,0,0,1
+479200399,"                                                    Turkey, Samsun (2008-2012)","Turkey, Samsun",False,Turkey,0,0,1
+479200899,"                                                   Turkey, Trabzon (2008-2012)","Turkey, Trabzon",False,Turkey,0,0,1
+470400299,"                                       *Viet Nam, Ho Chi Minh City (2009-2012)","Viet Nam, Ho Chi Minh City",True,Viet Nam,0,0,1
+504000099,                                                           Austria (2008-2012),Austria,False,Austria,1,1,0
+511200099,                                                          *Belarus (2008-2012),Belarus,True,Belarus,1,1,0
+505600099,                                                          *Belgium (2008-2012),Belgium,True,Belgium,1,1,0
+510000099,                                                          Bulgaria (2008-2012),Bulgaria,False,Bulgaria,1,1,0
+519100099,                                                           Croatia (2008-2012),Croatia,False,Croatia,1,1,0
+519600099,                                                            Cyprus (2008-2012),Cyprus,False,Cyprus,1,1,0
+520300099,                                                    Czech Republic (2008-2012),Czech Republic,False,Czech Republic,1,1,0
+520800099,                                                           Denmark (2008-2012),Denmark,False,Denmark,1,1,0
+523300099,                                                           Estonia (2008-2012),Estonia,False,Estonia,1,1,0
+527600399,"                                                  Germany, Bavaria (2008-2012)","Germany, Bavaria",False,Germany,0,0,1
+527601299,"                                                   Germany, Bremen (2008-2012)","Germany, Bremen",False,Germany,0,0,1
+527600299,"                                                  Germany, Hamburg (2008-2012)","Germany, Hamburg",False,Germany,0,0,1
+527600699,"                                             Germany, Lower Saxony (2008-2012)","Germany, Lower Saxony",False,Germany,0,0,1
+527600599,"                                                   Germany, Munich (2008-2012)","Germany, Munich",False,Germany,0,0,1
+527601199,"                                  *Germany, North Rhine-Westphalia (2008-2012)","Germany, North Rhine-Westphalia",True,Germany,0,0,1
+527600999,"                                     Germany, Rhineland-Palatinate (2008-2012)","Germany, Rhineland-Palatinate",False,Germany,0,0,1
+527603099,"                                                 Germany, Saarland (2008-2012)","Germany, Saarland",False,Germany,0,0,1
+527601699,"                                      *Germany, Schleswig-Holstein (2008-2012)","Germany, Schleswig-Holstein",True,Germany,0,0,1
+535200099,                                                           Iceland (2008-2012),Iceland,False,Iceland,1,1,0
+537200099,                                                           Ireland (2008-2012),Ireland,False,Ireland,1,1,0
+538005099,"                                              *Italy, Aosta Valley (2008-2012)","Italy, Aosta Valley",True,Italy,0,0,1
+538004199,"                                                   Italy, Barletta (2008-2011)","Italy, Barletta",False,Italy,0,0,1
+538004399,"                                                    Italy, Bergamo (2008-2012)","Italy, Bergamo",False,Italy,0,0,1
+538001799,"                                                     Italy, Biella (2008-2012)","Italy, Biella",False,Italy,0,0,1
+538004499,"                                                    Italy, Caserta (2008-2010)","Italy, Caserta",False,Italy,0,0,1
+538003799,"                                  Italy, Catania, Messina and Enna (2008-2012)","Italy, Catania, Messina and Enna",False,Italy,0,0,1
+538003899,"                                                       Italy, Como (2008-2011)","Italy, Como",False,Italy,0,0,1
+538004599,"                                                    Italy, Cremona (2008-2010)","Italy, Cremona",False,Italy,0,0,1
+538001299,"                                                    Italy, Ferrara (2008-2011)","Italy, Ferrara",False,Italy,0,0,1
+538000199,"                                         Italy, Florence and Prato (2008-2010)","Italy, Florence and Prato",False,Italy,0,0,1
+538001899,"                                      Italy, Friuli-Venezia Giulia (2008-2010)","Italy, Friuli-Venezia Giulia",False,Italy,0,0,1
+538000399,"                                                     Italy, Latina (2008-2012)","Italy, Latina",False,Italy,0,0,1
+538003999,"                                                      Italy, Lecco (2008-2010)","Italy, Lecco",False,Italy,0,0,1
+538004099,"                                     Italy, Lombardy, South, Pavia (2008-2010)","Italy, Lombardy, South, Pavia",False,Italy,0,0,1
+538002199,"                                                     Italy, Mantua (2008-2010)","Italy, Mantua",False,Italy,0,0,1
+538002699,"                                                      Italy, Milan (2008-2012)","Italy, Milan",False,Italy,0,0,1
+538001099,"                                                     Italy, Modena (2008-2012)","Italy, Modena",False,Italy,0,0,1
+538004799,"                                                      Italy, Monza (2008-2012)","Italy, Monza",False,Italy,0,0,1
+538001699,"                                                     Italy, Naples (2008-2012)","Italy, Naples",False,Italy,0,0,1
+538003199,"                                                      Italy, Nuoro (2008-2012)","Italy, Nuoro",False,Italy,0,0,1
+538003399,"                                                    Italy, Palermo (2008-2012)","Italy, Palermo",False,Italy,0,0,1
+538000599,"                                                      Italy, Parma (2008-2012)","Italy, Parma",False,Italy,0,0,1
+538004899,"                                                   Italy, Piacenza (2008-2011)","Italy, Piacenza",False,Italy,0,0,1
+538000699,"                                   Italy, Ragusa and Caltanissetta (2008-2012)","Italy, Ragusa and Caltanissetta",False,Italy,0,0,1
+538002399,"                                              Italy, Reggio Emilia (2008-2012)","Italy, Reggio Emilia",False,Italy,0,0,1
+538000799,"                                                    Italy, Romagna (2008-2012)","Italy, Romagna",False,Italy,0,0,1
+538001599,"                                                    Italy, Sassari (2008-2011)","Italy, Sassari",False,Italy,0,0,1
+538002899,"                                                    Italy, Sondrio (2008-2012)","Italy, Sondrio",False,Italy,0,0,1
+538003499,"                                                Italy, South Tyrol (2008-2010)","Italy, South Tyrol",False,Italy,0,0,1
+538002999,"                                                   Italy, Syracuse (2008-2012)","Italy, Syracuse",False,Italy,0,0,1
+538004999,"                                                    Italy, Taranto (2008-2011)","Italy, Taranto",False,Italy,0,0,1
+538001999,"                                                     Italy, Trento (2008-2010)","Italy, Trento",False,Italy,0,0,1
+538000899,"                                                      Italy, Turin (2008-2012)","Italy, Turin",False,Italy,0,0,1
+538001499,"                                                     Italy, Umbria (2008-2011)","Italy, Umbria",False,Italy,0,0,1
+538000499,"                                                     Italy, Varese (2008-2012)","Italy, Varese",False,Italy,0,0,1
+538001399,"                                                     Italy, Veneto (2008-2010)","Italy, Veneto",False,Italy,0,0,1
+542800099,                                                            Latvia (2010-2012),Latvia,False,Latvia,1,1,0
+544000099,                                                         Lithuania (2008-2012),Lithuania,False,Lithuania,1,1,0
+547000099,                                                             Malta (2008-2012),Malta,False,Malta,1,1,0
+552800099,                                                  *The Netherlands (2008-2012),Netherlands,True,Netherlands,1,1,0
+557800099,                                                            Norway (2008-2012),Norway,False,Norway,1,1,0
+561601099,                                                    Greater Poland (2008-2012),Poland,False,Poland,1,1,0
+562000599,"                                                  Portugal, Azores (2008-2011)","Portugal, Azores",False,Portugal,0,0,1
+564300699,"                                   Russian Federation, Arkhangelsk (2008-2012) ","Russian Federation, Arkhangelsk",False,Russian Federation,0,0,1
+564300599,"                                   Russian Federation, Chelyabinsk (2008-2012) ","Russian Federation, Chelyabinsk",False,Russian Federation,0,0,1
+564300399,"                                      *Russian Federation, Karelia (2008-2012)","Russian Federation, Karelia",True,Russian Federation,0,0,1
+564300499,"                                        Russian Federation, Samara (2008-2012)","Russian Federation, Samara",False,Russian Federation,0,0,1
+570300099,                                                          Slovakia (2008-2010),Slovakia,False,Slovakia,1,1,0
+570500099,                                                          Slovenia (2008-2012),Slovenia,False,Slovenia,1,1,0
+572400999,"                                                   Spain, Albacete (2008-2010)","Spain, Albacete",False,Spain,0,0,1
+572400599,"                                                   Spain, Asturias (2008-2010)","Spain, Asturias",False,Spain,0,0,1
+572400699,"                                             Spain, Basque Country (2008-2012)","Spain, Basque Country",False,Spain,0,0,1
+572401199,"                                             Spain, Canary Islands (2008-2011)","Spain, Canary Islands",False,Spain,0,0,1
+572401599,"                                                  Spain, Castellón (2008-2012)","Spain, Castellón",False,Spain,0,0,1
+572401699,"                                                Spain, Ciudad Real (2008-2011)","Spain, Ciudad Real",False,Spain,0,0,1
+572401399,"                                                     Spain, Cuenca (2008-2011)","Spain, Cuenca",False,Spain,0,0,1
+572401099,"                                                     Spain, Girona (2008-2012)","Spain, Girona",False,Spain,0,0,1
+572400299,"                                                    Spain, Granada (2008-2012)","Spain, Granada",False,Spain,0,0,1
+572401499,"                                                   Spain, La Rioja (2008-2012)","Spain, La Rioja",False,Spain,0,0,1
+572400899,"                                                   Spain, Mallorca (2008-2011)","Spain, Mallorca",False,Spain,0,0,1
+572400399,"                                                     Spain, Murcia (2008-2010)","Spain, Murcia",False,Spain,0,0,1
+572400499,"                                                    Spain, Navarra (2008-2010)","Spain, Navarra",False,Spain,0,0,1
+572400199,"                                                  Spain, Tarragona (2008-2012)","Spain, Tarragona",False,Spain,0,0,1
+575601299,"                                             Switzerland, Fribourg (2008-2012)","Switzerland, Fribourg",False,Switzerland,0,0,1
+575600299,"                                               Switzerland, Geneva (2008-2012)","Switzerland, Geneva",False,Switzerland,0,0,1
+575601199,"                                Switzerland, Graubünden and Glarus (2008-2012)","Switzerland, Graubünden and Glarus",False,Switzerland,0,0,1
+575600399,"                                            Switzerland, Neuchâtel (2008-2012)","Switzerland, Neuchâtel",False,Switzerland,0,0,1
+575600499,"                                    Switzerland, St Gall-Appenzell (2008-2012)","Switzerland, St Gall-Appenzell",False,Switzerland,0,0,1
+575601099,"                                               Switzerland, Ticino (2008-2012)","Switzerland, Ticino",False,Switzerland,0,0,1
+575600899,"                                               Switzerland, Valais (2008-2012)","Switzerland, Valais",False,Switzerland,0,0,1
+575600599,"                                                 Switzerland, Vaud (2008-2012)","Switzerland, Vaud",False,Switzerland,0,0,1
+575600699,"                                               Switzerland, Zurich (2008-2012)","Switzerland, Zurich",False,Switzerland,0,0,1
+580400099,                                                           Ukraine (2008-2012),Ukraine,False,Ukraine,1,1,0
+582600099,                                                    United Kingdom (2008-2012),United Kingdom,False,United Kingdom,1,1,0
+582600199,"                                                       UK, England (2008-2012)","UK, England",False,United Kingdom,0,0,1
+582601199,"                                                 UK, England, East (2008-2012)","UK, England, East",False,United Kingdom,0,0,1
+582600799,"                                        UK, England, East Midlands (2008-2012)","UK, England, East Midlands",False,United Kingdom,0,0,1
+582601599,"                                               UK, England, London (2008-2012)","UK, England, London",False,United Kingdom,0,0,1
+582600999,"                                           UK, England, North East (2008-2012)","UK, England, North East",False,United Kingdom,0,0,1
+582600399,"                                           UK, England, North West (2008-2012)","UK, England, North West",False,United Kingdom,0,0,1
+582600699,"                                           UK, England, South West (2008-2012)","UK, England, South West",False,United Kingdom,0,0,1
+582600499,"                                           UK, England, South East (2008-2012)","UK, England, South East",False,United Kingdom,0,0,1
+582600299,"                                        UK, England, West Midlands (2008-2012)","UK, England, West Midlands",False,United Kingdom,0,0,1
+582601099,"                             UK, England, Yorkshire and The Humber (2008-2012)","UK, England, Yorkshire and The Humber",False,United Kingdom,0,0,1
+582603099,"                                              UK, Northern Ireland (2008-2012)","UK, Northern Ireland",False,United Kingdom,0,0,1
+582602099,"                                                      UK, Scotland (2008-2012)","UK, Scotland",False,United Kingdom,0,0,1
+582604099,"                                                         UK, Wales (2008-2012)","UK, Wales",False,United Kingdom,0,0,1
+603600099,                                                         Australia (2008-2012) ,Australia,False,Australia,1,4,0
+603600199,                                      Australian Capital Territory (2008-2012) ,Australia,False,Australia,1,4,0
+603600499,                                                   South Australia (2008-2012),Australia,False,Australia,1,4,0
+603600799,                                                 Western Australia (2008-2012),Australia,False,Australia,1,4,0
+625009399,                                                    *New Caledonia (2008-2011),New Caledonia,True,New Caledonia,1,1,0
+655400099,                                                       New Zealand (2008-2012),New Zealand,False,New Zealand,1,1,0
