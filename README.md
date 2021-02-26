@@ -15,8 +15,7 @@ Cancer is a disease of genetic mutation and also that environment can play a hug
 4. Weighted averages were used for the cancer incidence rate by population sample size.
 
 ### Sample Data
-
-
+![](images/DataBeforeCleaning.png)
 
 ### After transformation
 
