@@ -1,4 +1,4 @@
-# Beer Consumption & Cancer Correlation
+# Beer Consumption vs. Cancer Correlation
 Does beer consumption affect your chance of getting cancer?
 
 ## Project Description
