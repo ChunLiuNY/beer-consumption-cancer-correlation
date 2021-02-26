@@ -18,5 +18,5 @@ Cancer is a disease of genetic mutation and also that environment can play a hug
 ![](images/DataBeforeCleaning.png)
 
 ### After transformation
-
+![](images/DataAfterCleaning.png)
 
