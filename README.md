@@ -20,8 +20,69 @@ Cancer is a disease of genetic mutation and also that environment can play a hug
 ### After transformation
 ![](images/DataAfterCleaning.png)
 
+## Assumptions/Caveats
+1. Some countries do not tend to report cancer statistics as thoroughly as other countries. Countries without screening may detect cancer later.
+2. Only 63 countries were compared in this analysis where adequate data existed for both cancer statistics and beer consumption.
+3. Assume each incidence of cancer is independent of the others.
+
 ## Insights
 
-## Hypothesis Test
+### World Cancer Incidence Rate
+![](images/cancer_incidence_continent.png)
+Western Europe has the highest cancer incidence rate, followed by Northern America and Eastern Europe based on the cancer statistics from WHO. A caveat is that the result could be biased as some countries do not tend to report cancer statistics as thoroughly as other countries.
+
+### World Beer Consumption
+![](images/beer_consumption_continent.png)
+Northern America, Eastern Europe and Western Europe have higher beer consumption than rest of the world. Looks like there could be a correlation between cancer and beer consumption.
+
+### Top 10 countries with the highest cancer incidence rate from 2008-2012
+![](images/top10_countries_cancer_incidence.png)
+Denmark has the highest cancer incidence rate (0.02 - 0.025). Top 10 countries are mostly European countries. 
+
+### Beer Consumption per Person for the Top 10 countries
+![](images/beer_consumption.png)
+
+
+## Is there a correlation?
+
+### Pearson Correlation
+Pearson correlation coefficient is a measure of linear correlation between two sets of data. A value of 1 implies that a linear equation describes the relationship between X and Y perfectly with all data points lying on the line for which Y increases as X increases. A value of -1 implies that all data points lie on a line for which Y decreases as X increases. A value of 0 implies that there is no linear correlation between the variables. 
+
+The pearson correlation coefficient is 0.72 based on the code below
+```
+df_stats[['country_name','Incidence Per Capita','Consumption']].corr(method = 'pearson')
+```
+![](images/correlation.png)
+
+Looks like there is a strong correlation between cancer statistics and beer consumption, as beer consumption increases, the probability of getting cancer also increases. Let's test that.
+
+### Hypothesis Testing
+We would like to test if people who drink beer more than average have a higher chance of getting cancer.
+
+We use 5% significance level in this test. 
+Our null hypothesis is that there is no difference in probability of getting cancer between people who drinks beer more than average and people who drinks beer less than aveverage.
+The alternative hypothesis is that there is a difference in probability of getting cancer between people who drinks beer more than average and people who drinks beer less than aveverage.
+
+P1 = P(chances of getting cancer for people who drinks beer less than average)
+
+P2 = P(chances of getting cancer for people who drinks beer more than average)
+
+H0: P1 = P2
+
+H1: P1 != P2
+
+Chances of getting cancer is the cancer incidence rate we looked at above. Assuming that each cancer incidence is independent of all the rest, it approximately follows a binomial distribution. 
+
+![](images/cancer_incidence_dist.png)
+
+Our sample population are: Population who drink beer more than world average; Population who drink beer less than world average.
+
+Based on t-test, the p-value is below
+```
+stats.ttest_ind(s1,s2,equal_var = False)
+```
+p-value is 3.476899628595322e-06, significantly less than the significance level (5%).
+
 
 ## Conclusions
+Based on this analysis, our p-value is far below the significance level (5%), I therefore reject the null hypothesis and conclude that beer consumption has correlation with cancer incidence. Due to the many assumptions required for this type of statistical analysis to be accurate, many of which do not hold true, this should not be considered conclusive evidence, but perhaps may prompt additional study.
