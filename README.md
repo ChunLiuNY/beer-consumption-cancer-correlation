@@ -77,11 +77,7 @@ Assuming that each cancer incidence is independent of all the rest, it approxima
 
 Our sample population are: Population who drink beer more than world average; Population who drink beer less than world average.
 
-Based on t-test, the p-value is below
-```
-stats.ttest_ind(s1,s2,equal_var = False)
-```
-p-value is 3.476899628595322e-06, significantly less than the significance level (5%).
+Based on z-test, the p-value is 3.476899628595322e-06, significantly less than the significance level (5%).
 
 
 ## Conclusions
