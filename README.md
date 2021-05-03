@@ -1,8 +1,8 @@
 # Beer Consumption vs. Cancer Correlation
-Does beer consumption affect your chance of getting cancer?
+Does beer consumption affect cancer incidence rate?
 
 ## Project Description
-Cancer is a disease of genetic mutation and also that environment can play a huge role, e.g. food consumption, life habits, etc. In this project, I would like to understand if there is a correlation between beer consumption and chance of getting cancer. Will a person who drinks beer more than average have a higher chance of getting cancer? I will analyze global cancer data by country compared with beer consumption to see if we can find correlation that might support the claim.
+Cancer is a disease of genetic mutation and also that environment can play a huge role, e.g. food consumption, life habits, etc. In this project, I would like to understand if there is a correlation between beer consumption and cancer incidence rate. Will a person who drinks beer more than average have a higher chance of getting cancer? I will analyze global cancer data by country compared with beer consumption to see if we can find correlation that might support the claim.
 
 ## Data Description
 1. The CI5 database from the World Health Organization contains incidence rates from 443 cancer registries in 65 countries for cancers diagnosed from 2008 to 2012, for all cancers and 28 major types. There is one with population metrics, and one for the cancer cases reported. Population data includes columns for Registry (reporting location), Year, Sex, Total population, and remaining columns are the breakdowns by age range (every 5 years). The Case files include columns to indicate the Registry, Year, Sex, Cancer type code, and the same 5 year age range counts.
@@ -57,21 +57,21 @@ df_stats[['country_name','Incidence Per Capita','Consumption']].corr(method = 'p
 Looks like there is a strong correlation between cancer statistics and beer consumption, as beer consumption increases, the probability of getting cancer also increases. Let's test that.
 
 ### Hypothesis Testing
-We would like to test if people who drink beer more than average have a higher chance of getting cancer.
+We would like to test if people who drink beer more than average have a higher cancer incidence rate.
 
 We use 5% significance level in this test. 
-Our null hypothesis is that there is no difference in probability of getting cancer between people who drinks beer more than average and people who drinks beer less than aveverage.
-The alternative hypothesis is that there is a difference in probability of getting cancer between people who drinks beer more than average and people who drinks beer less than aveverage.
+Our null hypothesis is that there is no difference in cancer incidence rate between people who drinks beer more than average and people who drinks beer less than aveverage.
+The alternative hypothesis is that there is a difference in cancer incidence rate between people who drinks beer more than average and people who drinks beer less than aveverage.
 
-P1 = P(chances of getting cancer for people who drinks beer less than average)
+P1 = P(cancer incidence rate for people who drinks beer less than average)
 
-P2 = P(chances of getting cancer for people who drinks beer more than average)
+P2 = P(cancer incidence rate for people who drinks beer more than average)
 
 H0: P1 = P2
 
 H1: P1 != P2
 
-Chances of getting cancer is the cancer incidence rate we looked at above. Assuming that each cancer incidence is independent of all the rest, it approximately follows a binomial distribution. 
+Assuming that each cancer incidence is independent of all the rest, it approximately follows a binomial distribution. 
 
 ![](images/cancer_incidence_dist.png)
 
